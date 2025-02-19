@@ -1,5 +1,4 @@
 👋 Hi, I'm Aayush Kumar!
-🚀 Aspiring Software Engineer | Machine Learning & Web Development Enthusiast
 
 🎓 B.E. in Computer Science & Engineering | Sahyadri College of Engineering & Management (Graduating 2025)
 💡 Passionate about solving business problems, developing innovative products, and mentoring juniors
@@ -13,7 +12,7 @@ Development: REST APIs, Web Apps, Data Analysis, Database Management
 Visualization: Matplotlib, Seaborn, Power BI, Tableau
 🏆 Experience:
 Machine Learning & Software Development Internships
-Udbhav Sahyadri Tech LLP (Oct-Nov 2023) - Developed ML models, analyzed IT graduate unemployment trends.
+Udbhav Sahyadri Tech LLP (Oct-Nov 2023) - Developed ML models, and analyzed IT graduate unemployment trends.
 CodSoft (Jul-Aug 2024) - Strengthened Python programming through real-world software development projects.
 🔥 Featured Projects:
 📌 Sentiment Analysis of College Reviews - NLP-based analysis using VADER & RoBERTa for insights.
